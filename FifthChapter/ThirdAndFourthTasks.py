@@ -12,3 +12,4 @@ while 1:
         print("Sorry, I don't know this person.")
     else:
         print("Father name: " + relativesList[name][0] + "\nGrandfather name: " + relativesList[name][1])
+
