@@ -1,5 +1,6 @@
 #--------------------------------------------------------------------------------
 # First task - work with non-nested list, second task - upgrade from non-nested list to nested list
+#--------------------------------------------------------------------------------
 relativesList = {"Denis": ("Sergey", "Alexander"), "Ivan": ("Alexander", "Efraim"), "Petya": ("Arseniy", "Vsevolod")}
 name = "None"
 while 1:
