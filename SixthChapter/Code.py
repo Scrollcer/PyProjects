@@ -24,14 +24,11 @@ def main():
             print("Lower...")
         else:
             print("Higher...")
-
         guess = ask_number("Take a guess: ", 1, 100)
         tries += 1
 
     print("You guessed it! The number was", the_number)
     print("And it only took you", tries, "tries!\n")
-
-
 
 main()
 input("\n\nPress the enter key to exit.")
