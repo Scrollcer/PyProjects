@@ -1,0 +1,46 @@
+Check your file and exception knowledge
+Starting and finishing work with files
+With help of which commands you can begin and finish /work with files?
+Start,Finish
+Open,Close
+Begin,End
+Opening,Closing
+2
+1
+You should use Open() to start working with file and Close() when finished
+Reading commands
+What commands can you use for reading or writing in files?
+Read,readline,readlines,write,writelines
+Read, write
+Readlines, writelines
+Reads,writes,reading,writing
+1
+2
+There are 5 different commands that allow you to work with txt files
+Picklings
+What does Pickling allow you to do in Python?
+Save a complex piece of data, like a list or dictionary, in its entirety, to a file
+Preserve vegetables
+Give a Python a sharp stab
+Nothing
+1
+1
+Pickling means to preserve in Python.
+Shelving
+What does shelving allow you to do in Python?
+Put books on a shelf
+Read or write objects to a file with keys to allow you to find the objects more easily
+Puts Pythons on a shelf
+Parks a bench
+2
+1
+Shelving provides random access to the lists.
+Exceptions
+What does try, exception allow you to do?
+Try different paths of code
+Catch errors (all or by specific definition)
+Test code
+Find additional erreors before compiling code
+2
+1
+try: excpetion: allows you to catch possible errors after compiling code
